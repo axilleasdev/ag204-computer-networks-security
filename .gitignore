@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# MS Office temp/lock files
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# Backup files
+*.bak
+*.tmp
