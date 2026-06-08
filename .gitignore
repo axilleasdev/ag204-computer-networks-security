@@ -9,3 +9,4 @@
 # Backup files
 *.bak
 *.tmp
+report/*.docx

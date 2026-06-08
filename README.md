@@ -18,8 +18,7 @@ Router-on-a-Stick design with 1 router (Cisco 2911) and 3 switches (one per floo
 
 | Folder / File | Description |
 |---------------|-------------|
-| `report/AG204_Report.docx` | Full report (Parts A–D) |
-| `report/AG204_Report.md` | Markdown version of the report |
+| `report/AG204_Report.md` | Report write-up (Parts A–D) |
 | `AG204_110-12256.pkt` | Cisco Packet Tracer file (Part B) |
 | `diagrams/` | Network topology diagram |
 | `wireshark/` | Analysis & screenshots (Part D) |
