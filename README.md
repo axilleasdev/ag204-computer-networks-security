@@ -18,7 +18,6 @@ Router-on-a-Stick design with 1 router (Cisco 2911) and 3 switches (one per floo
 
 | Folder / File | Description |
 |---------------|-------------|
-| `report/AG204_Report.md` | Report write-up (Parts A–D) |
 | `AG204_110-12256.pkt` | Cisco Packet Tracer file (Part B) |
 | `diagrams/` | Network topology diagram |
 | `wireshark/` | Analysis & screenshots (Part D) |
@@ -55,4 +54,4 @@ Analysis of the `FileTrace1.pcapng` capture file (DNS, FTP, POP3, etc.), answeri
 
 ---
 
-> University of Essex — BSc (Hons) in Computer Science
+> University of Essex — BSc Computing (Artificial Intelligence)
